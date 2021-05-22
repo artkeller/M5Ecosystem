@@ -1,2 +1,2 @@
 # M5Ecosystem
-Outdated - use original M5Stack Website
+Deprecated - use original M5Stack website
